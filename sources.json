@@ -1,0 +1,58 @@
+{
+  "pancake_swap": {
+    "name": "PancakeSwap",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/pancakeswap.png"
+  },
+  "sushi_swap": {
+    "name": "SushiSwap",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/sushiswap.png"
+  },
+  "liquid_swap_v0": {
+    "name": "LiquidSwap",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/liquidswap.png"
+  },
+  "liquid_swap_v0.5": {
+    "name": "LiquidSwap",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/liquidswap.png"
+  },
+  "thala_swap_stable": {
+    "name": "ThalaSwap",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
+  },
+  "thala_swap_weighted": {
+    "name": "ThalaSwap",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
+  },
+  "thala_swap_v2_stable": {
+    "name": "ThalaSwap V2",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
+  },
+  "thala_swap_v2_weighted": {
+    "name": "ThalaSwap V2",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
+  },
+  "thala_swap_v2_metastable": {
+    "name": "ThalaSwap V2",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
+  },
+  "cellana_finance": {
+    "name": "CellanaFinance",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/cellana.png"
+  },
+  "hyperion": {
+    "name": "Hyperion",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/hyperion.png"
+  },
+  "tapp_amm": {
+    "name": "Tapp",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/tapp.png"
+  },
+  "tapp_stable": {
+    "name": "Tapp",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/tapp.png"
+  },
+  "tapp_clmm": {
+    "name": "Tapp",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/tapp.png"
+  }
+}
