@@ -7,7 +7,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APT.svg",
-    "websiteUrl": "https://aptosfoundation.org"
+    "websiteUrl": "https://aptosfoundation.org",
+    "verified": true
   },
   {
     "coinType": null,
@@ -17,7 +18,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USDT.svg",
-    "websiteUrl": "https://tether.to"
+    "websiteUrl": "https://tether.to",
+    "verified": true
   },
   {
     "coinType": null,
@@ -27,7 +29,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USDC.svg",
-    "websiteUrl": "https://circle.com/usdc"
+    "websiteUrl": "https://circle.com/usdc",
+    "verified": true
   },
   {
     "coinType": null,
@@ -37,7 +40,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/WBTC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": null,
@@ -47,7 +51,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/xBTC.png",
-    "websiteUrl": "https://www.okx.com/xbtc"
+    "websiteUrl": "https://www.okx.com/xbtc",
+    "verified": false
   },
   {
     "coinType": null,
@@ -57,7 +62,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/RION.svg",
-    "websiteUrl": "https://hyperion.xyz"
+    "websiteUrl": "https://hyperion.xyz",
+    "verified": false
   },
   {
     "coinType": null,
@@ -67,7 +73,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ECHO.svg",
-    "websiteUrl": "https://www.echo-protocol.xyz"
+    "websiteUrl": "https://www.echo-protocol.xyz",
+    "verified": true
   },
   {
     "coinType": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::mkl_token::MKL",
@@ -77,7 +84,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MKL.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": null,
@@ -87,7 +95,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/AMI.png",
-    "websiteUrl": "https://amnis.finance"
+    "websiteUrl": "https://amnis.finance",
+    "verified": false
   },
   {
     "coinType": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
@@ -97,7 +106,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/LSD.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
@@ -107,7 +117,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/THL.svg",
-    "websiteUrl": "https://www.thala.fi"
+    "websiteUrl": "https://www.thala.fi",
+    "verified": false
   },
   {
     "coinType": null,
@@ -117,7 +128,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CELL.png",
-    "websiteUrl": "https://cellana.finance"
+    "websiteUrl": "https://cellana.finance",
+    "verified": false
   },
   {
     "coinType": null,
@@ -127,7 +139,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/VIBE.png",
-    "websiteUrl": "https://vibrantx.finance"
+    "websiteUrl": "https://vibrantx.finance",
+    "verified": false
   },
   {
     "coinType": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002",
@@ -137,7 +150,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/GUI.png",
-    "websiteUrl": "https://www.guiinu.com"
+    "websiteUrl": "https://www.guiinu.com",
+    "verified": false
   },
   {
     "coinType": null,
@@ -147,7 +161,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/AURO.png",
-    "websiteUrl": "https://auro.finance"
+    "websiteUrl": "https://auro.finance",
+    "verified": false
   },
   {
     "coinType": null,
@@ -157,7 +172,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MESO.png",
-    "websiteUrl": "https://meso.finance"
+    "websiteUrl": "https://meso.finance",
+    "verified": false
   },
   {
     "coinType": null,
@@ -167,7 +183,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CATTOS.png",
-    "websiteUrl": "https://cattos.io"
+    "websiteUrl": "https://cattos.io",
+    "verified": false
   },
   {
     "coinType": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
@@ -177,7 +194,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/TOMA.png",
-    "websiteUrl": "https://tomarket.ai"
+    "websiteUrl": "https://tomarket.ai",
+    "verified": false
   },
   {
     "coinType": null,
@@ -187,7 +205,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/AMA.png",
-    "websiteUrl": "https://amaterasu.gg"
+    "websiteUrl": "https://amaterasu.gg",
+    "verified": false
   },
   {
     "coinType": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
@@ -197,7 +216,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/DOODOO.png",
-    "websiteUrl": "https://doodoo.io"
+    "websiteUrl": "https://doodoo.io",
+    "verified": false
   },
   {
     "coinType": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON",
@@ -207,7 +227,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/LOON.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": null,
@@ -217,7 +238,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USDe.png",
-    "websiteUrl": "https://ethena.fi"
+    "websiteUrl": "https://ethena.fi",
+    "verified": false
   },
   {
     "coinType": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
@@ -227,7 +249,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/amAPT.png",
-    "websiteUrl": "https://amnis.finance"
+    "websiteUrl": "https://amnis.finance",
+    "verified": false
   },
   {
     "coinType": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
@@ -237,7 +260,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/stAptAmnis.svg",
-    "websiteUrl": "https://stake.amnis.finance"
+    "websiteUrl": "https://stake.amnis.finance",
+    "verified": false
   },
   {
     "coinType": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT",
@@ -247,7 +271,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/THAPT.png",
-    "websiteUrl": "https://thala.fi"
+    "websiteUrl": "https://thala.fi",
+    "verified": false
   },
   {
     "coinType": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT",
@@ -257,7 +282,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/STHAPT.png",
-    "websiteUrl": "https://thala.fi"
+    "websiteUrl": "https://thala.fi",
+    "verified": false
   },
   {
     "coinType": null,
@@ -267,7 +293,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/kAPT.png",
-    "websiteUrl": "https://app.kofi.finance"
+    "websiteUrl": "https://app.kofi.finance",
+    "verified": false
   },
   {
     "coinType": null,
@@ -277,7 +304,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/stkAPT.png",
-    "websiteUrl": "https://app.kofi.finance"
+    "websiteUrl": "https://app.kofi.finance",
+    "verified": false
   },
   {
     "coinType": null,
@@ -287,7 +315,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/mUSD.svg",
-    "websiteUrl": "https://mirage.money"
+    "websiteUrl": "https://mirage.money",
+    "verified": false
   },
   {
     "coinType": "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD",
@@ -297,7 +326,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MOD.svg",
-    "websiteUrl": "https://thala.fi"
+    "websiteUrl": "https://thala.fi",
+    "verified": false
   },
   {
     "coinType": null,
@@ -307,7 +337,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/AURO_USDA.png",
-    "websiteUrl": "https://auro.finance"
+    "websiteUrl": "https://auro.finance",
+    "verified": false
   },
   {
     "coinType": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
@@ -317,7 +348,8 @@
     "decimals": 6,
     "bridge": "LayerZero",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/lzUSDC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
@@ -327,7 +359,8 @@
     "decimals": 6,
     "bridge": "LayerZero",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/lzUSDT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
@@ -337,7 +370,8 @@
     "decimals": 6,
     "bridge": "LayerZero",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/lzWETH.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
@@ -347,7 +381,8 @@
     "decimals": 6,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whUSDC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": null,
@@ -357,7 +392,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/eAPT.svg",
-    "websiteUrl": "https://www.echo-protocol.xyz"
+    "websiteUrl": "https://www.echo-protocol.xyz",
+    "verified": false
   },
   {
     "coinType": "0x4e1854f6d332c9525e258fb6e66f84b6af8aba687bbcb832a24768c4e175feec::abtc::ABTC",
@@ -367,7 +403,8 @@
     "decimals": 10,
     "bridge": "Echo",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/aBTC.svg",
-    "websiteUrl": "https://www.echo-protocol.xyz"
+    "websiteUrl": "https://www.echo-protocol.xyz",
+    "verified": false
   },
   {
     "coinType": null,
@@ -377,7 +414,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/FIABTC.png",
-    "websiteUrl": "https://fiammalabs.io"
+    "websiteUrl": "https://fiammalabs.io",
+    "verified": false
   },
   {
     "coinType": null,
@@ -387,7 +425,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/TEVI.svg",
-    "websiteUrl": "https://web3.tevi.com"
+    "websiteUrl": "https://web3.tevi.com",
+    "verified": false
   },
   {
     "coinType": null,
@@ -397,7 +436,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/RWD.png",
-    "websiteUrl": "https://www.rewardywallet.com"
+    "websiteUrl": "https://www.rewardywallet.com",
+    "verified": false
   },
   {
     "coinType": "0x4fbed3f8a3fd8a11081c8b6392152a8b0cb14d70d0414586f0c9b858fcd2d6a7::UPTOS::UPTOS",
@@ -407,7 +447,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/UPTOS.svg",
-    "websiteUrl": "https://uptos.xyz"
+    "websiteUrl": "https://uptos.xyz",
+    "verified": false
   },
   {
     "coinType": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
@@ -417,7 +458,8 @@
     "decimals": 0,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CHEWY.png",
-    "websiteUrl": "https://chewytoken.com"
+    "websiteUrl": "https://chewytoken.com",
+    "verified": false
   },
   {
     "coinType": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO",
@@ -427,7 +469,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MOOMOO.png",
-    "websiteUrl": "https://www.moo.meme"
+    "websiteUrl": "https://www.moo.meme",
+    "verified": false
   },
   {
     "coinType": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG",
@@ -437,7 +480,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/EDOG.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x8ea59d57259d0312fa21e0cb9099d359462d9e0050c9139960ff9a2313ce1c9d::coin::T",
@@ -447,7 +491,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/o-xyz.svg",
-    "websiteUrl": "https://www.o.xyz/"
+    "websiteUrl": "https://www.o.xyz/",
+    "verified": false
   },
   {
     "coinType": "0x8512b34017e087c3707748869ddc317d83f3fe70ab3a162abdc055c761ca9906::OBOT::OBOT",
@@ -457,7 +502,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/OBOT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x63be1898a424616367e19bbd881f456a78470e123e2770b5b5dcdceb61279c54::movegpt_token::MovegptCoin",
@@ -467,7 +513,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MGPT.png",
-    "websiteUrl": "https://movegpt.io/"
+    "websiteUrl": "https://movegpt.io/",
+    "verified": false
   },
   {
     "coinType": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
@@ -477,7 +524,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/DONK.png",
-    "websiteUrl": "https://donkmove.com/"
+    "websiteUrl": "https://donkmove.com/",
+    "verified": false
   },
   {
     "coinType": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
@@ -487,7 +535,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/HAIR.png",
-    "websiteUrl": "https://hairclub.io"
+    "websiteUrl": "https://hairclub.io",
+    "verified": false
   },
   {
     "coinType": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
@@ -497,7 +546,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ZIPO.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
@@ -507,7 +557,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/Pancake.png",
-    "websiteUrl": "https://pancakeswap.finance"
+    "websiteUrl": "https://pancakeswap.finance",
+    "verified": false
   },
   {
     "coinType": null,
@@ -517,7 +568,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/TruAPT.png",
-    "websiteUrl": "https://www.trufin.io"
+    "websiteUrl": "https://www.trufin.io",
+    "verified": false
   },
   {
     "coinType": null,
@@ -527,7 +579,8 @@
     "decimals": 9,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BAPTMAN.png",
-    "websiteUrl": "https://baptmantoken.com"
+    "websiteUrl": "https://baptmantoken.com",
+    "verified": false
   },
   {
     "coinType": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WBTC",
@@ -537,7 +590,8 @@
     "decimals": 6,
     "bridge": "LayerZero",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/lzWBTC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin",
@@ -547,7 +601,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MOVE.svg",
-    "websiteUrl": "https://bluemove.net"
+    "websiteUrl": "https://bluemove.net",
+    "verified": false
   },
   {
     "coinType": "0xe234f0e7c05165cc48f5407c3eb542709a8284fb6b9d66068413a2e13ef423bd::MOVEPUMP::MOVEPUMP",
@@ -557,7 +612,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MOVEPUMP.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
@@ -567,7 +623,8 @@
     "decimals": 6,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whUSDT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xada35ada7e43e2ee1c39633ffccec38b76ce702b4efc2e60b50f63fbe4f710d8::apetos_token::ApetosCoin",
@@ -577,7 +634,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APE.png",
-    "websiteUrl": "https://apetos.xyz/"
+    "websiteUrl": "https://apetos.xyz/",
+    "verified": false
   },
   {
     "coinType": "0xd6a49762f6e4f7401ee79be6f5d4111e70db1408966ba1aa204e6e10c9d437ca::bubbles::BubblesCoin",
@@ -587,7 +645,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BUBBLES.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
@@ -597,7 +656,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whWBTC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xdcfa079344261bfde45e7f6281df091743b8d3098bf9e26e1c0212fc5b070621::zaaptos_token::ZaaptosCoin",
@@ -607,7 +667,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ZAAP.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x4c71c33b9ec2f263a7f25779bd9a2531165d4da9a963e042a20f288688094a66::APTO_THE_MASCOT::APTO_THE_MASCOT",
@@ -617,7 +678,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APTO.png",
-    "websiteUrl": "https://aptothemascot.com/"
+    "websiteUrl": "https://aptothemascot.com/",
+    "verified": false
   },
   {
     "coinType": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
@@ -627,7 +689,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CASH.png",
-    "websiteUrl": "https://www.cash.markets/"
+    "websiteUrl": "https://www.cash.markets/",
+    "verified": false
   },
   {
     "coinType": null,
@@ -637,7 +700,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/sUSDe.png",
-    "websiteUrl": "https://ethena.fi"
+    "websiteUrl": "https://ethena.fi",
+    "verified": false
   },
   {
     "coinType": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
@@ -647,7 +711,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whWETH.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59::stakestone_ether::StakeStoneEther",
@@ -657,7 +722,8 @@
     "decimals": 8,
     "bridge": "LayerZero",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/lzSTONE.png",
-    "websiteUrl": "https://stakestone.io"
+    "websiteUrl": "https://stakestone.io",
+    "verified": false
   },
   {
     "coinType": "0x5dee1d4b13fae338a1e1780f9ad2709a010e824388efd169171a26e3ea9029bb::stakestone_bitcoin::StakeStoneBitcoin",
@@ -667,7 +733,8 @@
     "decimals": 8,
     "bridge": "LayerZero",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/lzSBTC.png",
-    "websiteUrl": "https://stakestone.io"
+    "websiteUrl": "https://stakestone.io",
+    "verified": false
   },
   {
     "coinType": null,
@@ -677,7 +744,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/NIGHT.png",
-    "websiteUrl": "https://midnight.io"
+    "websiteUrl": "https://midnight.io",
+    "verified": false
   },
   {
     "coinType": "0x6f446fe32a361c5512863d5e610f7d7eaa54d5cee1cea6a2712f2e56da693f1c::MODENG::MODENG",
@@ -687,7 +755,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MODENG.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x9d4d8a8f1551317276bc2fbf924e7adf82b722b72f4f914dcfb6cc1811bc383f::Sidelined::Sidelined",
@@ -697,7 +766,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/SIDELINED.png",
-    "websiteUrl": "https://x.com/SidelinedAPT"
+    "websiteUrl": "https://x.com/SidelinedAPT",
+    "verified": false
   },
   {
     "coinType": "0x42d77150661adcc068603bde2453bea1e22fa7ca08878ec88b7e077709c01171::oft::WUSDMOFT",
@@ -707,7 +777,8 @@
     "decimals": 8,
     "bridge": "LayerZero",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/lzWUSDM.png",
-    "websiteUrl": "https://mountainprotocol.com"
+    "websiteUrl": "https://mountainprotocol.com",
+    "verified": false
   },
   {
     "coinType": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
@@ -717,7 +788,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CAPTOS.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x24dc0c6bd0a98f31961589e6432a8038833128f7c802ba148172553987c379f::MEOW::MEOW",
@@ -727,7 +799,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MEOW.png",
-    "websiteUrl": "https://meowtos.xyz"
+    "websiteUrl": "https://meowtos.xyz",
+    "verified": false
   },
   {
     "coinType": null,
@@ -737,7 +810,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/KLK.svg",
-    "websiteUrl": "https://www.klickl.vip"
+    "websiteUrl": "https://www.klickl.vip",
+    "verified": false
   },
   {
     "coinType": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
@@ -747,7 +821,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/SNZ.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x967adbf2e05fe665ab86a3bf2c4acfa39fbf62097963474ef70a0786dae8cfa2::NRUH::NRUH",
@@ -757,7 +832,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/NRUH.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd::FOG::FOG",
@@ -767,7 +843,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/FOG.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x23906ec47702dfcdb8ca35dc6eab5cb5d567b86ac1ef0d32a53b786c14ed0d98::POLES::POLES",
@@ -777,7 +854,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/POLES.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x8f59ac670c9cdaa22503bfede0be49e6759626b18727fbf8d876e18861ff3986::RAPT::RAPT",
@@ -787,7 +865,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/RAPT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xbafd66d813a51ed6b5d2db99b18b61d2fccbc2e46979690fe84198272c59ca5f::zaptos::Zaptos",
@@ -797,7 +876,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ZAPT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af::PUPTOS::PUPTOS",
@@ -807,7 +887,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/PUPTOS.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
@@ -817,7 +898,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BEARD.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
@@ -827,7 +909,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/PP.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xbd92f54e3ebf1e80a0efa05f8bbd607fc6dd00ec208c0d743ee6ba3c10f03846::APOP::APOP",
@@ -837,7 +920,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APOP.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x2eebec013472480cc903cf7f118ccadcf813b4bf5e57aafba250746eff2150d5::BEDOG::BEDOG",
@@ -847,7 +931,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BEDOG.svg",
-    "websiteUrl": "https://edog.baby"
+    "websiteUrl": "https://edog.baby",
+    "verified": false
   },
   {
     "coinType": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG",
@@ -857,7 +942,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/UPDOG.png",
-    "websiteUrl": "https://updogapt.xyz"
+    "websiteUrl": "https://updogapt.xyz",
+    "verified": false
   },
   {
     "coinType": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
@@ -867,7 +953,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ACAT.png",
-    "websiteUrl": "https://www.aptocat.xyz"
+    "websiteUrl": "https://www.aptocat.xyz",
+    "verified": false
   },
   {
     "coinType": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
@@ -877,7 +964,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/GHO.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864::FaptOS::FaptOS",
@@ -887,7 +975,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/FAPTOS.png",
-    "websiteUrl": "https://faptosaptos.com"
+    "websiteUrl": "https://faptosaptos.com",
+    "verified": false
   },
   {
     "coinType": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8::BUBU::BUBU",
@@ -897,7 +986,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BUBU.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xbafe0208ba2a3ea2c66a6868f9361a13f4014490e9b77fb0364c5cf55340ffbe::AMAGA::AMAGA",
@@ -907,7 +997,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/AMAGA.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405::MOTOS::MOTOS",
@@ -917,7 +1008,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MOTOS.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xa8c3d4ec01aa0bcaa23bac67d0c3e9d5df2d9e8b82a01ad4f8448aebf3d9a961::POK::POK",
@@ -927,7 +1019,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/POK.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x744467880fbc1a723d8ba8437cd6de3de942789fe6611fc992de8574596c9b5c::CMT::CMT",
@@ -937,7 +1030,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CMT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x2f277e648b3761b65818d92f0a7c151cb38a1d33b1a8b18d4c5748bbcd9fcca5::Netzy::Netzy",
@@ -947,7 +1041,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/NETZY.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice",
@@ -957,7 +1052,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/RICE.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xc89f2e0a7f61424e0b951936820f0423e3f076948dcdced112b76244ed840a25::burritos_coin::BurritosCoin",
@@ -967,7 +1063,8 @@
     "decimals": 9,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BURRITOS.png",
-    "websiteUrl": "https://burritos-aptos.com"
+    "websiteUrl": "https://burritos-aptos.com",
+    "verified": false
   },
   {
     "coinType": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
@@ -977,7 +1074,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/stAptDitto.png",
-    "websiteUrl": "https://www.dittofinance.io"
+    "websiteUrl": "https://www.dittofinance.io",
+    "verified": false
   },
   {
     "coinType": "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin",
@@ -987,7 +1085,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/tAptTortuga.png",
-    "websiteUrl": "https://tortuga.finance"
+    "websiteUrl": "https://tortuga.finance",
+    "verified": false
   },
   {
     "coinType": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin",
@@ -997,7 +1096,8 @@
     "decimals": 6,
     "bridge": "Celer",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ceUSDT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x2dcbc03740a6fa2efee926b9df329184cce357d0573bdab09930f4d48e61a4c8::STOS::STOS",
@@ -1007,7 +1107,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/STOS.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin",
@@ -1017,7 +1118,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MEE.svg",
-    "websiteUrl": "https://meeiro.xyz"
+    "websiteUrl": "https://meeiro.xyz",
+    "verified": false
   },
   {
     "coinType": "0xfbab9fb68bd2103925317b6a540baa20087b1e7a7a4eb90badee04abb6b5a16f::blt::Blt",
@@ -1027,7 +1129,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BLT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
@@ -1037,7 +1140,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ABEL.svg",
-    "websiteUrl": "https://abelfinance.xyz"
+    "websiteUrl": "https://abelfinance.xyz",
+    "verified": false
   },
   {
     "coinType": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken",
@@ -1047,7 +1151,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ALT.png",
-    "websiteUrl": "https://aptoslaunch.io"
+    "websiteUrl": "https://aptoslaunch.io",
+    "verified": false
   },
   {
     "coinType": "0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO",
@@ -1057,7 +1162,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MOJO.svg",
-    "websiteUrl": "https://dex.mojito.markets"
+    "websiteUrl": "https://dex.mojito.markets",
+    "verified": false
   },
   {
     "coinType": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS",
@@ -1067,7 +1173,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/PROPS.png",
-    "websiteUrl": "https://www.propbase.app"
+    "websiteUrl": "https://www.propbase.app",
+    "verified": false
   },
   {
     "coinType": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
@@ -1077,7 +1184,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APTOGE.png",
-    "websiteUrl": "https://aptoge.com"
+    "websiteUrl": "https://aptoge.com",
+    "verified": false
   },
   {
     "coinType": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
@@ -1087,7 +1195,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/WOOF.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC",
@@ -1097,7 +1206,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/DLC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x4ed27736e724e403f9b4645ffef0ae86fd149503f45b37c428ffabd7e46e5b05::core::RenegadeCoin",
@@ -1107,7 +1217,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/RENA.png",
-    "websiteUrl": "https://www.renegades.build"
+    "websiteUrl": "https://www.renegades.build",
+    "verified": false
   },
   {
     "coinType": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::APTS",
@@ -1117,7 +1228,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APTS.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::chad_coin::ChadCoin",
@@ -1127,7 +1239,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CHAD.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
@@ -1137,7 +1250,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MBX.svg",
-    "websiteUrl": "https://marblex.io"
+    "websiteUrl": "https://marblex.io",
+    "verified": false
   },
   {
     "coinType": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
@@ -1147,7 +1261,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/DUMDUM.png",
-    "websiteUrl": "https://dumdum.cc/"
+    "websiteUrl": "https://dumdum.cc/",
+    "verified": false
   },
   {
     "coinType": "0x52ab49a4039c3d2b0aa6e0a00aaed75dcff72a3120ba3610f62d1d0b6032345a::war_coin::WarCoin",
@@ -1157,7 +1272,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/WAR.png",
-    "websiteUrl": "https://werewolfandwitch.xyz"
+    "websiteUrl": "https://werewolfandwitch.xyz",
+    "verified": false
   },
   {
     "coinType": "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI",
@@ -1167,7 +1283,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ANI.png",
-    "websiteUrl": "https://animeswap.org"
+    "websiteUrl": "https://animeswap.org",
+    "verified": false
   },
   {
     "coinType": "0xc71d94c49826b7d81d740d5bfb80b001a356198ed7b8005ae24ccedff82b299c::bridge::APTS",
@@ -1177,7 +1294,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APTS.png",
-    "websiteUrl": "https://bluemove.net/collection/apts"
+    "websiteUrl": "https://bluemove.net/collection/apts",
+    "verified": false
   },
   {
     "coinType": "0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover",
@@ -1187,7 +1305,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MOVER.svg",
-    "websiteUrl": "https://mov3r.xyz"
+    "websiteUrl": "https://mov3r.xyz",
+    "verified": false
   },
   {
     "coinType": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin",
@@ -1197,7 +1316,8 @@
     "decimals": 6,
     "bridge": "Celer",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ceUSDC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x65957cb717d1ec5e13c003cbad0d20d8f7f95236ea0f8bb8c419e533eda73890::TOAST::TOAST",
@@ -1207,7 +1327,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/TOAST.png",
-    "websiteUrl": "https://aptoast.com"
+    "websiteUrl": "https://aptoast.com",
+    "verified": false
   },
   {
     "coinType": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin",
@@ -1217,7 +1338,8 @@
     "decimals": 8,
     "bridge": "Celer",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ceWETH.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin",
@@ -1227,7 +1349,8 @@
     "decimals": 8,
     "bridge": "Celer",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ceWBNB.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
@@ -1237,7 +1360,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whSOL.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
@@ -1247,7 +1371,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whGARI.png",
-    "websiteUrl": "https://gari.network"
+    "websiteUrl": "https://gari.network",
+    "verified": false
   },
   {
     "coinType": "0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin",
@@ -1257,7 +1382,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APTSHIBA.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xe1bfc010d2bdd576036f4c1f3ea7d547f19188f5b78075dd961420d843ee914c::brew_coin::BrewCoin",
@@ -1267,7 +1393,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BREW.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin",
@@ -1277,7 +1404,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APC.svg",
-    "websiteUrl": "https://aptpp.com"
+    "websiteUrl": "https://aptpp.com",
+    "verified": false
   },
   {
     "coinType": "0x9a19f4c81f7dc7b8ae6f568d562e6fb056c3894303229c91f73f34c24b0403b0::luffycoin::Luffy",
@@ -1287,7 +1415,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/LUFFY.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xcc78307c77f1c2c0fdfee17269bfca7876a0b35438c3442417480c0d5c370fbc::AptopadCoin::APD",
@@ -1297,7 +1426,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APD.png",
-    "websiteUrl": "https://aptopad.io"
+    "websiteUrl": "https://aptopad.io",
+    "verified": false
   },
   {
     "coinType": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::legendary_meme::LegendaryMEME",
@@ -1307,7 +1437,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/LME.svg",
-    "websiteUrl": "https://legendaryme.me"
+    "websiteUrl": "https://legendaryme.me",
+    "verified": false
   },
   {
     "coinType": "0x3be1b0966a7f400c1ea57e6ddfe5f060282592a1f4df4d45872a7c8bc46b5ba5::zapdos::Zapdos",
@@ -1317,7 +1448,8 @@
     "decimals": 1,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ZAP.png",
-    "websiteUrl": "https://zapdos.dev"
+    "websiteUrl": "https://zapdos.dev",
+    "verified": false
   },
   {
     "coinType": "0x7b7bab2131de3e4f318b4abaa952f7c817b2c3df16c951caca809ac9ca9b650e::APARTMENT::APARTMENT",
@@ -1327,7 +1459,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/APARTMENT.png",
-    "websiteUrl": "https://aptosapartments.rent"
+    "websiteUrl": "https://aptosapartments.rent",
+    "verified": false
   },
   {
     "coinType": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
@@ -1337,7 +1470,8 @@
     "decimals": 2,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/SHRIMP.png",
-    "websiteUrl": "https://shrimp.app"
+    "websiteUrl": "https://shrimp.app",
+    "verified": false
   },
   {
     "coinType": "0xdf3d5eb83df80dfde8ceb1edaa24d8dbc46da6a89ae134a858338e1b86a29e38::coin::Returd",
@@ -1347,7 +1481,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/RETURD.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xd2c9cfe8dd64ebdf9b39e1525997cef33bd178161c59410097d3f3e0704a5df3::ROO::ROO",
@@ -1357,7 +1492,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ROO.png",
-    "websiteUrl": "https://aptosroo.io"
+    "websiteUrl": "https://aptosroo.io",
+    "verified": false
   },
   {
     "coinType": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
@@ -1367,7 +1503,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/PEPE.png",
-    "websiteUrl": "https://pepe.as"
+    "websiteUrl": "https://pepe.as",
+    "verified": false
   },
   {
     "coinType": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BusdCoin",
@@ -1377,7 +1514,8 @@
     "decimals": 8,
     "bridge": "Celer",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ceBUSD.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::EVA",
@@ -1387,7 +1525,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/EVA.png",
-    "websiteUrl": "https://apt-20.com"
+    "websiteUrl": "https://apt-20.com",
+    "verified": false
   },
   {
     "coinType": "0x7e19e5790911597559ec6b41c5465ab062be22d6ba5729845bf257a2361d7608::CITADELI::CITADELI",
@@ -1397,7 +1536,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CTD.svg",
-    "websiteUrl": "https://citadeli.crypto"
+    "websiteUrl": "https://citadeli.crypto",
+    "verified": false
   },
   {
     "coinType": "0x9906c12b3b7a12721b9dddf23e6dd5ff5dfc93c5241dada855780758b01fedd3::DOOT_SKELETON::DOOT_SKELETON",
@@ -1407,7 +1547,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/DOOT.png",
-    "websiteUrl": "https://skeltal.io"
+    "websiteUrl": "https://skeltal.io",
+    "verified": false
   },
   {
     "coinType": "0x8235f05ea1901e682bc09b3be93eba0727e94c020ccb0e57074843315c675521::BLADEEWIFHAT::BLADEEWIFHAT",
@@ -1417,7 +1558,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BLADEE.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY",
@@ -1427,7 +1569,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USDY.svg",
-    "websiteUrl": "https://ondo.finance"
+    "websiteUrl": "https://ondo.finance",
+    "verified": false
   },
   {
     "coinType": "0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN",
@@ -1437,7 +1580,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/DDOS.png",
-    "websiteUrl": "https://ddosapt.com"
+    "websiteUrl": "https://ddosapt.com",
+    "verified": false
   },
   {
     "coinType": "0x7de3fea83cd5ca0e1def27c3f3803af619882db51f34abf30dd04ad12ee6af31::tapos::Heart",
@@ -1447,7 +1591,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/HEART.png",
-    "websiteUrl": "https://tapos.xyz"
+    "websiteUrl": "https://tapos.xyz",
+    "verified": false
   },
   {
     "coinType": "0xf891d2e004973430cc2bbbee69f3d0f4adb9c7ae03137b4579f7bb9979283ee6::APTOS_FOMO::APTOS_FOMO",
@@ -1457,7 +1602,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/FOMO.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xc32ba5d293577cbb1df390f35b2bc6369a593b736d0865fedec1a2b08565de8e::in_coin::InCoin",
@@ -1467,7 +1613,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/TIN.png",
-    "websiteUrl": "https://ongame.dev"
+    "websiteUrl": "https://ongame.dev",
+    "verified": false
   },
   {
     "coinType": "0x4d981c48d254c4cea6110090ad1c2890d5ea35d49cbed28e76c0d3bb90ddf873::crab_coin::CrabCoin",
@@ -1477,7 +1624,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/CRAB.svg",
-    "websiteUrl": "https://www.aptosshaker.xyz"
+    "websiteUrl": "https://www.aptosshaker.xyz",
+    "verified": false
   },
   {
     "coinType": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDD",
@@ -1487,7 +1635,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USDD.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WbtcCoin",
@@ -1497,7 +1646,8 @@
     "decimals": 8,
     "bridge": "Celer",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ceWBTC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T",
@@ -1507,7 +1657,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whWBNB.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
@@ -1517,7 +1668,8 @@
     "decimals": 9,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/TOSS.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People",
@@ -1527,7 +1679,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/PEOPLE.png",
-    "websiteUrl": "https://thepeopleapt.xyz"
+    "websiteUrl": "https://thepeopleapt.xyz",
+    "verified": false
   },
   {
     "coinType": "0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T",
@@ -1537,7 +1690,8 @@
     "decimals": 6,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whUSDC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x79a6ed7a0607fdad2d18d67d1a0e552d4b09ebce5951f1e5c851732c02437595::coin::T",
@@ -1547,7 +1701,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whUSDC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xc7160b1c2415d19a88add188ec726e62aab0045f0aed798106a2ef2994a9101e::coin::T",
@@ -1557,7 +1712,8 @@
     "decimals": 6,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whUSDC.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xd6d6372c8bde72a7ab825c00b9edd35e643fb94a61c55d9d94a9db3010098548::USDC::Coin",
@@ -1567,7 +1723,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USDC.svg",
-    "websiteUrl": "https://multichain.org"
+    "websiteUrl": "https://multichain.org",
+    "verified": false
   },
   {
     "coinType": "0x25a64579760a4c64be0d692327786a6375ec80740152851490cfd0b53604cf95::coin::ETERN",
@@ -1577,7 +1734,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ETERN.svg",
-    "websiteUrl": "https://eternalfinance.io"
+    "websiteUrl": "https://eternalfinance.io",
+    "verified": false
   },
   {
     "coinType": "0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken",
@@ -1587,7 +1745,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/SLT.svg",
-    "websiteUrl": "http://suilaunch.io"
+    "websiteUrl": "http://suilaunch.io",
+    "verified": false
   },
   {
     "coinType": "0x394205c024d8e932832deef4cbfc7d3bb17ff2e9dc184fa9609405c2836b94aa::coin::T",
@@ -1597,7 +1756,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whNEAR.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T",
@@ -1607,7 +1767,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/WTBT.svg",
-    "websiteUrl": "https://www.tprotocol.io"
+    "websiteUrl": "https://www.tprotocol.io",
+    "verified": false
   },
   {
     "coinType": "0xccc9620d38c4f3991fa68a03ad98ef3735f18d04717cb75d7a1300dd8a7eed75::coin::T",
@@ -1617,7 +1778,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whBUSD.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xced3e98a47279b4d39a75fa8da867e2e8383d5d8ce7e59b2964a9469616a761b::coin::T",
@@ -1627,7 +1789,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/SUI.svg",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400::proton_a5d::PROTON_E54",
@@ -1637,7 +1800,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ALI.png",
-    "websiteUrl": "https://twitter.com/AlpacaINU"
+    "websiteUrl": "https://twitter.com/AlpacaINU",
+    "verified": false
   },
   {
     "coinType": "0x407a220699982ebb514568d007938d2447d33667e4418372ffec1ddb24491b6c::coin::T",
@@ -1647,7 +1811,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whDAI.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xacd014e8bdf395fa8497b6d585b164547a9d45269377bdf67c96c541b7fec9ed::coin::T",
@@ -1657,7 +1822,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whUSDT.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x5b1bbc25524d41b17a95dac402cf2f584f56400bf5cc06b53c36b331b1ec6e8f::coin::T",
@@ -1667,7 +1833,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whWAVAX.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::EONcoin::EONCoin",
@@ -1677,7 +1844,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/EON.svg",
-    "websiteUrl": "https://eonlabz.com"
+    "websiteUrl": "https://eonlabz.com",
+    "verified": false
   },
   {
     "coinType": "0x9a8d0e2fde92bb5a503ad899b352b630952651cba26e4959d0ed19d79f9b02ee::asset::MoveYourBody",
@@ -1687,7 +1855,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BODY.png",
-    "websiteUrl": "https://www.moveyourbody.xyz"
+    "websiteUrl": "https://www.moveyourbody.xyz",
+    "verified": false
   },
   {
     "coinType": "0xcefd39b563951a9ec2670aa57086f9adb3493671368ea60ff99e0bc98f697bb5::coin::T",
@@ -1697,7 +1866,8 @@
     "decimals": 8,
     "bridge": "Wormhole",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/whXCN.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5::GEM::GEM",
@@ -1707,7 +1877,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/GEM.png",
-    "websiteUrl": "https://globalemoney.io"
+    "websiteUrl": "https://globalemoney.io",
+    "verified": false
   },
   {
     "coinType": "0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW",
@@ -1717,7 +1888,8 @@
     "decimals": 2,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/GEMKRW.svg",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0xf6f87fb53c090da2cd681cd30eccec6825685e6f305bfb9efdbbdf31796a83a7::MONKE::MONKE",
@@ -1727,7 +1899,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MONKE.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x13341e81b2c5960623f31cfee0b1ef674cbf23ca302852159b542adc6afe0f37::TEH_DORK_KNITE::TEH_DORK_KNITE",
@@ -1737,7 +1910,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BAPTMAN.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x83b619e2d9e6e10d15ed4b714111a4cd9526c1c2ae0eec4b252a619d3e8bdda3::MAU::MAU",
@@ -1747,7 +1921,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MAU.png",
-    "websiteUrl": "https://mauprotocol.com"
+    "websiteUrl": "https://mauprotocol.com",
+    "verified": false
   },
   {
     "coinType": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::DaiCoin",
@@ -1757,7 +1932,8 @@
     "decimals": 8,
     "bridge": "Celer",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ceDAI.png",
-    "websiteUrl": null
+    "websiteUrl": null,
+    "verified": false
   },
   {
     "coinType": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance",
@@ -1767,7 +1943,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/AptSwap.png",
-    "websiteUrl": "http://aptswap.io"
+    "websiteUrl": "http://aptswap.io",
+    "verified": false
   },
   {
     "coinType": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::house_lp::MKLP<0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::fa_box::W_USDC>",
@@ -1777,7 +1954,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MKLP.png",
-    "websiteUrl": "https://merkle.trade"
+    "websiteUrl": "https://merkle.trade",
+    "verified": false
   },
   {
     "coinType": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::house_lp::MKLP<0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC>",
@@ -1787,7 +1965,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/MKLP.png",
-    "websiteUrl": "https://merkle.trade"
+    "websiteUrl": "https://merkle.trade",
+    "verified": false
   },
   {
     "coinType": null,
@@ -1797,7 +1976,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/AGLP.png",
-    "websiteUrl": "https://agdex.io"
+    "websiteUrl": "https://agdex.io",
+    "verified": false
   },
   {
     "coinType": null,
@@ -1807,7 +1987,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": null,
-    "websiteUrl": "https://www.thala.fi"
+    "websiteUrl": "https://www.thala.fi",
+    "verified": false
   },
   {
     "coinType": null,
@@ -1817,7 +1998,8 @@
     "decimals": 8,
     "bridge": null,
     "logoUrl": null,
-    "websiteUrl": "https://www.thala.fi"
+    "websiteUrl": "https://www.thala.fi",
+    "verified": false
   },
   {
     "coinType": null,
@@ -1827,7 +2009,8 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/BUIDL.png",
-    "websiteUrl": "https://securitize.io/blackrock/BUIDL"
+    "websiteUrl": "https://securitize.io/blackrock/BUIDL",
+    "verified": false
   },
   {
     "coinType": null,
@@ -1837,6 +2020,7 @@
     "decimals": 6,
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/ACRED.png",
-    "websiteUrl": "http://securitize.io/primary-market/apollo-diversified-credit-securitize-fund"
+    "websiteUrl": "http://securitize.io/primary-market/apollo-diversified-credit-securitize-fund",
+    "verified": false
   }
 ]
