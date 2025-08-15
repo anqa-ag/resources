@@ -30,7 +30,7 @@
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USDC.svg",
     "websiteUrl": "https://circle.com/usdc",
-    "verified": false
+    "verified": true
   },
   {
     "coinType": null,
@@ -41,7 +41,7 @@
     "bridge": null,
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/WBTC.png",
     "websiteUrl": null,
-    "verified": true
+    "verified": false
   },
   {
     "coinType": null,
