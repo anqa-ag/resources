@@ -23,16 +23,20 @@
     "name": "ThalaSwap",
     "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
   },
+  "thala_swap_clmm": {
+    "name": "ThalaSwap",
+    "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
+  },
   "thala_swap_v2_stable": {
-    "name": "ThalaSwap V2",
+    "name": "ThalaSwap",
     "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
   },
   "thala_swap_v2_weighted": {
-    "name": "ThalaSwap V2",
+    "name": "ThalaSwap",
     "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
   },
   "thala_swap_v2_metastable": {
-    "name": "ThalaSwap V2",
+    "name": "ThalaSwap",
     "logo": "https://raw.githubusercontent.com/anqa-ag/resources/main/logo/thalaswap.png"
   },
   "cellana_finance": {
