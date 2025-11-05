@@ -2025,7 +2025,7 @@
   },
   {
     "coinType": "0x187428b1a8b1c823e5ad1bf07121cbe8712f2efc95c3117d1212ab8b33bae51c::reserve_coin::RESERVE",
-    "faAddress": "0x5fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2",
+    "faAddress": "0xe87ffe47d2e77253865f964c9478b333bedd1c54aa3e090ac8fc84db51aeff8b",
     "name": "Reserve Token",
     "symbol": "RESERVE",
     "decimals": 6,
