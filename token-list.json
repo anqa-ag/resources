@@ -2033,5 +2033,16 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/USD1.png",
     "websiteUrl": "https://worldlibertyfinancial.com",
     "verified": false
+  },
+  {
+    "coinType": "0x187428b1a8b1c823e5ad1bf07121cbe8712f2efc95c3117d1212ab8b33bae51c::reserve_coin::RESERVE",
+    "faAddress": "0xe87ffe47d2e77253865f964c9478b333bedd1c54aa3e090ac8fc84db51aeff8b",
+    "name": "Reserve Token",
+    "symbol": "RESERVE",
+    "decimals": 6,
+    "bridge": null,
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/resources/main/token-logo/RESERVE.png",
+    "websiteUrl": "https://www.aptreserve.xyz",
+    "verified": false
   }
 ]
